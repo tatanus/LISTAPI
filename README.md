@@ -9,3 +9,7 @@ My goal with this project was to create a simple web based project that would se
 By making use of either the web based user interface or through use of direct queries via curl, wget, etc... one is able to retrieve the desired list.
 
 A live version of this project can be seen at [list.exploitsearch.net](http://list.exploitsearch.net).
+
+
+
+P.S.   I do not claim this to be the best structured code nor the most secure, but it works for my purposes and I hope you find it useful.
