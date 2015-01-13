@@ -10,6 +10,8 @@ By making use of either the web based user interface or through use of direct qu
 
 A live version of this project can be seen at [list.exploitsearch.net](http://list.exploitsearch.net).
 
+For a full list of possible parameters click [here](http://list.exploitsearch.net/api?help=1).
+
 
 
 P.S.   I do not claim this to be the best structured code nor the most secure, but it works for my purposes and I hope you find it useful.
