@@ -8,4 +8,4 @@ My goal with this project was to create a simple web based project that would se
 
 By making use of either the web based user interface or through use of direct queries via curl, wget, etc... one is able to retrieve the desired list.
 
-A live version of this project can be seen at [list.exploitsearch.net!](list.exploitsearch.net)
+A live version of this project can be seen at [list.exploitsearch.net](list.exploitsearch.net).
